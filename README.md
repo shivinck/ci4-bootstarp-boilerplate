@@ -1,4 +1,4 @@
-<h1 align="center"> :beginner: CodeIgniter4Bootstrap</h1>
+<h1 align="center"> CodeIgniter4 Templating with Bootstrap</h1>
 
 <p align="center">Blueprint for new PHP Web-Applications bundled with popular frameworks!<br>Pre-configured to start coding your actual project right away.</p>
 
@@ -9,14 +9,7 @@
 
 ---------
 
-## Bootstrap Templates
 
-[Bootstrap example templates:](https://getbootstrap.com/docs/5.0/examples/)<br>
- `Album` `Pricing` `Checkout` `Product` `Cover` `Carousel` `Blog` `Dashboard` `Sign-In` `Sticky-Footer` `Sticky-Footer-Nav` `Jumbotron`
-<br><br>
-[Free templates:](https://startbootstrap.com/)<br>
-`SB Admin 2` `Resume`
-<br><br>
 
 <h1 align="center">How to use</h1>
 
